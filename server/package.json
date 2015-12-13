@@ -1,0 +1,10 @@
+{
+    "name": "ero-martin",
+    "description": "Ero Martin Proj",
+    "version": "0.0.2",
+    "private": false,
+    "dependencies": {    	
+        "express": "latest",
+        "mongodb": "latest"
+    }
+}
